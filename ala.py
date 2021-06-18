@@ -1,1 +1,1 @@
-print('Ala ma kota')
+print("Ala ma kota")
